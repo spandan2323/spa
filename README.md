@@ -1,5 +1,5 @@
 
-# Spandan Gowda — Portfolio (Ready to Deploy)
+# Spandan Gowda — Portfolio
 
 This is a simple, recruiter-focused portfolio website built with static HTML, CSS and a little JS.
 It is ready to deploy on **GitHub Pages** or any static hosting (Netlify, Vercel).
